@@ -114,5 +114,5 @@ Honestly, it started as just a project codename and stuck. Feel free to rename i
 
 This is very much a hobby/home project, but if you spot a bug, have a wiring improvement, or want to add features (Telegram/WhatsApp alerts, multiple users, a proper mobile app, etc.), feel free to open an issue or a PR.
 
-## License
+
 
