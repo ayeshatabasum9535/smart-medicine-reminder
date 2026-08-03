@@ -116,4 +116,3 @@ This is very much a hobby/home project, but if you spot a bug, have a wiring imp
 
 ## License
 
-Not currently licensed — if you want to reuse this, just drop a star ⭐ and maybe credit the repo. (Feel free to add an actual license file, like MIT, if you plan on sharing this more widely.)
